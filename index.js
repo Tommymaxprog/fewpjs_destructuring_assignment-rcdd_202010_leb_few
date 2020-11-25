@@ -45,7 +45,7 @@ const [,,,,,indg,]=colors;
 // Objects
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-const [nodejs,clor,song,job,partner]=muppet;
+const [Kermit,color,song,job,partner]=muppet;
 const [k_name,k_color,k_album,,k_job,k_partner]=k_muppet;
 
 
